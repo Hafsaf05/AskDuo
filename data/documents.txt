@@ -1,0 +1,128 @@
+===============================================================================
+ASKDUO KNOWLEDGE BASE — COMPANY INTERNAL DOCUMENTS
+===============================================================================
+
+--- DOCUMENT 1: Employee Leave Policy ---
+
+Employees are entitled to the following types of leave each calendar year:
+
+Annual Leave:
+Employees receive 20 paid annual leave days per year. Annual leave must be
+requested through the internal HR portal at least 3 days in advance and is
+subject to manager approval.
+
+Sick Leave:
+Employees are entitled to 12 sick leave days per year. If an employee is sick
+for more than two consecutive days, a medical certificate may be required.
+
+Emergency Leave:
+Emergency leave may be granted for urgent personal matters such as family
+medical emergencies or critical personal situations. Approval is determined
+by the employee's manager and HR department.
+
+Unused annual leave can be carried forward for up to 6 months into the next
+calendar year unless otherwise specified by HR.
+
+--- DOCUMENT 2: Expense Reimbursement Policy ---
+
+Employees may request reimbursement for approved business-related expenses.
+
+Eligible expenses include:
+• Travel expenses for work-related trips
+• Accommodation for business travel
+• Client meeting expenses
+• Office supplies purchased for work purposes
+
+To apply for reimbursement:
+
+1. Log into the internal Expense Management Portal.
+2. Submit the reimbursement request form.
+3. Upload all required receipts or invoices.
+4. Provide a short description of the expense purpose.
+
+Once submitted, the finance team reviews the request. Approved reimbursements
+are typically processed within 5–7 business days and transferred to the
+employee’s registered bank account.
+
+Expenses submitted more than 30 days after the purchase date may not be eligible
+for reimbursement unless approved by the finance department.
+
+--- DOCUMENT 3: Remote Work Policy ---
+
+The company supports flexible and remote work arrangements.
+
+Employees may work remotely up to 3 days per week unless their role requires
+onsite presence.
+
+Guidelines for remote work include:
+
+• Employees must remain reachable via company communication tools during
+  standard working hours.
+• All remote employees must attend scheduled team meetings.
+• Employees must ensure secure access to company systems when working remotely.
+• Confidential company information must not be accessed from unsecured devices.
+
+Employees wishing to work fully remote must submit a request to their manager
+and HR department for approval.
+
+--- DOCUMENT 4: IT Support and Help Desk ---
+
+Employees experiencing technical issues should contact the IT support team.
+
+Common IT support requests include:
+
+• Password resets
+• Software installation requests
+• Hardware troubleshooting
+• Network connectivity issues
+• Access permission requests
+
+Employees can contact IT support using the following methods:
+
+1. Submit a ticket through the IT Help Desk Portal.
+2. Email the support team at: support@company.com
+3. Use the internal messaging channel “#it-support”.
+
+IT support requests are typically addressed within 24 hours during business days.
+
+For urgent issues such as system outages, employees should mark the support
+ticket as “High Priority”.
+
+--- DOCUMENT 5: Employee Onboarding Guidelines ---
+
+New employees must complete the onboarding process within their first week.
+
+The onboarding process includes:
+
+• Setting up company email and communication accounts
+• Completing HR documentation
+• Reviewing company policies and code of conduct
+• Attending the onboarding orientation session
+• Meeting with team members and assigned mentor
+
+The HR department provides onboarding materials and training resources to help
+new employees become familiar with company tools, workflows, and expectations.
+
+Managers are responsible for guiding new employees through their first projects
+and ensuring they understand team responsibilities.
+
+--- DOCUMENT 6: Performance Review Process ---
+
+Employee performance reviews are conducted twice per year.
+
+The review process includes:
+
+• Self-assessment submitted by the employee
+• Manager performance evaluation
+• Feedback on achievements and areas for improvement
+• Goal setting for the next review cycle
+
+Performance reviews help ensure employees receive clear feedback, career
+development support, and recognition for their contributions.
+
+Employees who consistently exceed expectations may be considered for promotions
+or additional responsibilities.
+
+===============================================================================
+END OF KNOWLEDGE BASE
+===============================================================================
